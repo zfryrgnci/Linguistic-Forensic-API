@@ -1,0 +1,6 @@
+{
+  "name": "Forensic Linguist & Media Bias Detector",
+  "description": "Analyze text for rhetorical manipulation, emotional triggers, loaded language, and logical fallacies using forensic linguistic taxonomy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
